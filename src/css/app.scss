@@ -1,0 +1,29 @@
+body {
+  color: #222222;
+  //font-family: 'Open Sans', sans-serif;
+}
+
+.default-card {
+  box-shadow: 0 0 6px rgba(#000, 0.1);
+  border: 1px solid $grey-2;
+}
+
+.q-pa-xl {
+  padding: 3.75rem !important;
+}
+
+.q-card {
+  border-radius: 0.5rem;
+}
+
+.text-tertiary {
+  color: #23cefd !important;
+}
+
+.q-btn {
+  border-radius: 0.25rem;
+}
+
+.q-pa-lg {
+  padding: 2.5rem !important;
+}
