@@ -12,7 +12,7 @@ export const SIDEBAR_ITEMS: DashboardLeftSidebarItem[] = [
   {
     name: 'Cards',
     iconSrc: '/assets/common/dashboard-left-sidebar/card.svg',
-    mobileIconSrc: '/assets/common/dashboard-left-sidebar/aspire-logo-grey.svg',
+    mobileIconSrc: '/assets/common/dashboard-left-sidebar/card-grey.svg',
     activeIconSrc: '/assets/common/dashboard-left-sidebar/card-active.svg',
     alt: 'cards page',
     to: '/cards',
